@@ -7,6 +7,7 @@
     <?php
         // Replace this with your PHP date
         $phpDate = "2023-08-28 12:00:00";
+        echo 'Hello World';
     ?>
     <div id="timer"></div>
     <script>
