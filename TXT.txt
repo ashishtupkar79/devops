@@ -1,0 +1,16 @@
+Cpanel    http://103.50.163.224:2082
+
+hellozte
+
+Riddler$1997@
+
+12486
+7876
+
+Near To Usha Memorial Hospital,Koradi Road,Mankapur,�Nagpur - 440030
+
+�
+
+962
+
+UPDATE business_directory SET  address= REPLACE(address,'�','');
